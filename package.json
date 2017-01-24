@@ -1,0 +1,11 @@
+{
+  "name": "file-upload",
+  "version": "1.0.0",
+  "description": "Microservice to accept an uploaded form and return the file size in bytes",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Krell",
+  "license": "ISC"
+}
